@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-con-javascript-2.0",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo en JavaScript 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "JavaScript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekt1209/asincronismo-con-JavaScript-2.0.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Victor Guzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekt1209/asincronismo-con-JavaScript-2.0/issues"
+  },
+  "homepage": "https://github.com/zekt1209/asincronismo-con-JavaScript-2.0#readme"
+}
