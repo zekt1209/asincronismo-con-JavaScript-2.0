@@ -15,13 +15,17 @@ const postData = (urlApi, data) => {    // Funcion que se va a encargar de usar 
 };
 
 const data = {      // Data que queremos almacenar
-    "title": "New Sneakers!!! ",
-    "price": 1199,
-    "description": "The most amazing sneakers",
-    "categoryId": 1,
+    "title": "420",
+    "price": 420,
+    "description": "The Magic Number",
+    "categoryId": 2,
     "images": ["https://placeimg.com/640/480/any"]
 }
 
 postData(`${API}/products`, data) // Podemos utilizar postData como una promesa para poder usar el then
 .then(response => response.json())  // Transformamos la respuesta en un objeto JSON
 .then(data => console.log(data)) // Mostramos la informacion en la consola
+
+// id: 240
+// 242
+// 243
