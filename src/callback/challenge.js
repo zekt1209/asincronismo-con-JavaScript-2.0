@@ -1,6 +1,9 @@
 // Callbacks mejorado
 
 // Iniciamos ...
+
+// CALLBACK
+
 const XMLHttprequest = require('xmlhttprequest').XMLHttpRequest; // Requerimos el componente que instalamos
 const API = 'https://api.escuelajs.co/api/v1';  // Guardamos la url de la API donde haremos los llamados
 
