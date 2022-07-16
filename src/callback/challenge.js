@@ -1,3 +1,7 @@
+// Callbacks mejorado
+
+// Iniciamos ...
+
 // CALLBACK
 
 const XMLHttprequest = require('xmlhttprequest').XMLHttpRequest; // Requerimos el componente que instalamos
